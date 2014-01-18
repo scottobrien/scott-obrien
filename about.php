@@ -87,6 +87,7 @@ get_header(); ?>
 	                <ul class="sidebar-list clearfix">
 	                    <li><a href="http://scott-obrien.com/wp-content/uploads/2013/11/scott-obrien-resume.pdf" target="_blank">Resume, PDF</a></li>
 	                    <li>scott.thomas.obrien (at) gmail.com</li>
+	                    <li><a href="http://github.com/scottobrien" target="_blank">Git Hub</a></li>
 	                </ul>
 	            </div>
 	            
@@ -110,7 +111,7 @@ get_header(); ?>
 	                <ul class="bullets">
 	                    <li><span>Web Design</span> - Visual Layout, Responsive Design, UI/UX</li>
 	                    <li><span>Front-End Web Development</span> - HTML, CSS, jQuery and WordPress</li>
-	                    <li><span>Apps</span> - Sublime Text 2, SASS, Firebug, Photoshop, Illustrator</li>
+	                    <li><span>Apps</span> - Sublime Text 2, SASS, Git, Code Kit, Firebug, Photoshop, Illustrator, Light Room</li>
 	                    <li><span>Platforms</span> - Mac OSX</li>
 	                </ul>
 

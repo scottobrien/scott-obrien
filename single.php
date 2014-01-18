@@ -17,8 +17,8 @@ get_header(); ?>
                     </div>
                     <ul class="single-nav right clearfix">
                         <li class="single-tiles" ><a href="work"></a></li>
-                        <li class="single-prev" ><?php previous_post_link('%link', False); ?></li>
-                        <li class="single-next" ><?php next_post_link('%link', False); ?></li>
+                        <li class="single-prev" ><?php next_post_link('%link', False); ?></li>
+                        <li class="single-next" ><?php previous_post_link('%link', False); ?></li>
                     </ul>
                 </div>
             </section>

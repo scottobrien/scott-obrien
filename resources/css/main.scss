@@ -1199,7 +1199,7 @@ ul.sidebar-list li:nth-child(2) {
 
 ul.sidebar-list li:nth-child(3) {
     background-position: 0 -515px;
-    line-height: 16px;
+    line-height: 15px;
 }
 
     
@@ -1400,6 +1400,7 @@ span.wpcf7-not-valid-tip {
     border:none !important;
     font-size: 11px !important;
     color: red;
+    position:absolute !important;
 }
 
     
